@@ -1,2 +1,2 @@
 hello! this is my first alpha text in alpha text file.
-This is my second line for learning merge and conflict.
+This is my second line for learning conflict and merge.
